@@ -16,3 +16,11 @@ h1 {
     text-transform: capitalize;
 }
 
+.header {
+    text-align: center;
+}
+
+.date {
+    text-align: right;
+}
+
